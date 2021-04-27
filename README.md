@@ -6,3 +6,4 @@ A couple of changes I found and made
    Pictures did not have "alt" tags assigned
    I added "hover" tags to make links appear bigger when hovered over
    Also had social media links for people to follow and get a bigger fan base
+   Implemented code to make website mobile accessible 
